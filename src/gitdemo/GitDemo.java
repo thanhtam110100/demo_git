@@ -16,6 +16,7 @@ public class GitDemo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("lan 1");
+        System.out.println("lan 2");
     }
     
 }
